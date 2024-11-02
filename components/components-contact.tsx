@@ -22,7 +22,7 @@ export default function ContactComponent() {
 
         toast({
             title: "Message sent!",
-            description: "Thank you for your message. I'll get back to you soon.",
+            description: "Thank you for your message. I&apos;ll get back to you soon.",
         })
 
         setIsSubmitting(false)
@@ -57,7 +57,7 @@ export default function ContactComponent() {
                     <Card>
                         <CardHeader>
                             <CardTitle>Send a Message</CardTitle>
-                            <CardDescription>I'll get back to you as soon as possible</CardDescription>
+                            <CardDescription>I&apos;ll get back to you as soon as possible</CardDescription>
                         </CardHeader>
                         <CardContent>
                             <form onSubmit={handleSubmit} className="space-y-4">

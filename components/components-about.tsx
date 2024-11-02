@@ -17,13 +17,13 @@ export default function AboutComponent() {
             />
             <div>
               <p className="text-lg mb-4">
-                I'm Sviatoslav Oleksiv, a Senior Full-Stack Developer based in Warsaw, Poland. With over 10 years of
+                I&apos;m Sviatoslav Oleksiv, a Senior Full-Stack Developer based in Warsaw, Poland. With over 10 years of
                 experience, I specialize in JavaScript, TypeScript, React, and Node.js, focusing on cloud-native
                 solutions and SaaS projects.
               </p>
               <p className="text-lg">
                 My expertise spans from front-end frameworks like Next.js and Angular to back-end technologies and cloud
-                platforms (AWS, GCP). I'm passionate about solving complex problems and creating user-friendly
+                platforms (AWS, GCP). I&apos;m passionate about solving complex problems and creating user-friendly
                 interfaces. When not coding, I work on AI-driven personal projects and contribute to the developer
                 community on Stack Overflow and GitHub.
               </p>
